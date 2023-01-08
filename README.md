@@ -1,4 +1,4 @@
-# Stock-Market-Analysis-Forcasting-
+# Stock Market Analysis_Forcasting-
 Stock Price Forecasting using LSTM model with historical data from Yahoo Finance.
 
 # Deep-Learning---Stock-Price-Prediction-

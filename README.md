@@ -10,4 +10,4 @@ Objective:
 Use LSTM approach to predict stock market.
 
 Note: Prices dataset are fetched from Yahoo Finance.
-https://www.google.com/url?sa=i&url=https%3A%2F%2Feconomictimes.indiatimes.com%2Fmarkets%2Fstocks%2Fnews%2Fahead-of-market-12-things-that-will-decide-stock-action-on-wednesday%2Farticleshow%2F83342467.cms&psig=AOvVaw1iib9fne7VgJSOps7qafNT&ust=1673255544897000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDf7OrQt_wCFQAAAAAdAAAAABAT
+![image](https://user-images.githubusercontent.com/109403256/211188634-eac161c0-1117-4469-b969-795e8d7030e5.png)
